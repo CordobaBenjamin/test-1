@@ -1,0 +1,9 @@
+{
+  "name": "Hireme",
+  "displayName": "Hireme",
+  
+    "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-8863788478635375~1095493891",
+      "ios_app_id": "ca-app-pub-8863788478635375~1095493891"
+    }
+}

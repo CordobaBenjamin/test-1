@@ -1,0 +1,95 @@
+import { StyleSheet } from "react-native";
+
+export const styles = StyleSheet.create({
+    container:{
+ flex: 1,
+ backgroundColor:'#fdfdff'
+      },
+        stylechoosetext:{
+        textAlign:'center',
+        fontSize:25,
+        fontWeight:"bold",
+        marginTop:30,
+        color:'#0e0140'
+      },
+        areyoutext:{
+        textAlign:"center",
+        fontSize:15,
+        marginTop:10,
+        color:'#abb1b6', 
+   
+      },
+      Viewstyle1:{
+        height:'100%',
+        width:'40%',
+        // borderColor:'#0e0140',
+        borderWidth:2,
+        borderRadius:20,
+  },
+  jobimg:{
+        height:75,
+        width:75,
+        marginTop:30,
+        alignSelf:'center'
+      },
+      textstyle:{
+        textAlign:'center',
+        fontSize:20,
+        color:'#0e0140',
+        margin:5
+      },
+      textstyle2:{
+        textAlign:'center',
+        fontSize:13,
+        margin:10
+      },
+      continustyle:{
+        backgroundColor:"#0e0140"
+      },
+      textStylebutt:{
+        color:'#ffffff'
+      },
+      mainviewstyle:{
+        height:'49%',
+        width:'95%',
+        backgroundColor:'#ffffff',
+        borderRadius:30,
+        borderWidth:2,
+        borderColor:'#e5e8ec',
+        alignSelf:'center',
+        
+      },
+      styletext:{
+        fontSize:15,
+        textAlign:'center',
+
+      },
+      termstyletext:{
+        fontSize:16,
+        textAlign:'center',
+        color:'#0e0140'
+      },
+      toeleStyle:{
+        textAlign:'center',
+        fontSize:16,
+      },
+      agreestyle:{
+        width:200,
+        alignSelf:'center',
+        backgroundColor:'#0e0140',
+        marginTop:30
+      },
+      textStyleagree:{
+        marginRight:20,
+        color:'white'
+      },
+      Disgreestyle:{
+        marginTop:30,
+        textAlign:'center',
+        fontSize:15,
+        color:"#ff0000"
+      }, 
+      choosejonbutton:{
+        width:350
+      }
+})

@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BebasNeue-Regular.ttf",
+      "sha1": "8b3aaeb978f3cb5f575860774b50c332338563c1"
+    },
+    {
+      "path": "assets/fonts/DancingScript-Bold.ttf",
+      "sha1": "42858229a137c5188a859df102afff145200114d"
+    },
+    {
+      "path": "assets/fonts/DancingScript-Medium.ttf",
+      "sha1": "30711d9cdbed046fef8128082c6cc1a9287dbc7c"
+    },
+    {
+      "path": "assets/fonts/DancingScript-Regular.ttf",
+      "sha1": "b52e869bd47b6e98fd907ae00b1828916451b3b0"
+    },
+    {
+      "path": "assets/fonts/DancingScript-SemiBold.ttf",
+      "sha1": "b5e71ddbaca9b4d5953f0c5e45bf326fb7df35ba"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Light.ttf",
+      "sha1": "6f21894a80049259ef71fcba135218695b41b67a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    }
+  ]
+}
